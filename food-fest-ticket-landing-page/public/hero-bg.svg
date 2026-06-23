@@ -1,0 +1,36 @@
+<svg viewBox="0 0 1920 1080" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#c8800a;stop-opacity:1" />
+      <stop offset="40%" style="stop-color:#d4611a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#5c3f2a;stop-opacity:1" />
+    </linearGradient>
+    <radialGradient id="blob1" cx="20%" cy="30%">
+      <stop offset="0%" style="stop-color:#ffa500;stop-opacity:0.4" />
+      <stop offset="100%" style="stop-color:#ff6432;stop-opacity:0" />
+    </radialGradient>
+    <radialGradient id="blob2" cx="85%" cy="10%">
+      <stop offset="0%" style="stop-color:#ff5a32;stop-opacity:0.3" />
+      <stop offset="100%" style="stop-color:#c8320a;stop-opacity:0" />
+    </radialGradient>
+  </defs>
+  
+  <!-- Main gradient background -->
+  <rect width="1920" height="1080" fill="url(#bgGradient)" />
+  
+  <!-- Decorative blobs for food/fire imagery -->
+  <circle cx="200" cy="150" r="350" fill="url(#blob1)" />
+  <circle cx="1750" cy="100" r="300" fill="url(#blob2)" />
+  
+  <!-- Subtle texture overlay -->
+  <rect width="1920" height="1080" fill="url(#bgGradient)" opacity="0.1" />
+  
+  <!-- Accent elements -->
+  <circle cx="400" cy="800" r="250" fill="#ffc857" opacity="0.08" />
+  <circle cx="1600" cy="700" r="300" fill="#ff8c42" opacity="0.06" />
+  
+  <!-- Text overlay indicator (optional) -->
+  <text x="960" y="540" font-size="48" font-weight="bold" text-anchor="middle" fill="rgba(255,255,255,0.08)" font-family="sans-serif">
+    Cape Town Food Fest Hero Background
+  </text>
+</svg>
