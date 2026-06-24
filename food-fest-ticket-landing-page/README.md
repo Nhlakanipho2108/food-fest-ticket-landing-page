@@ -122,6 +122,7 @@ src/
 ## 📚 Resources
 
 - [Vue 3 Documentation](https://vuejs.org/)
+![screenshot](ticket.png)
 - [Vite Documentation](https://vite.dev/)
 - [Vite Configuration Reference](https://vite.dev/config/)
 
