@@ -124,5 +124,6 @@ src/
 
 - [Vue 3 Documentation](https://vuejs.org/)
 - [Vite Documentation](https://vite.dev/)
-![screenshot](ticket.png)
+<img width="1117" height="786" alt="ticket" src="https://github.com/user-attachments/assets/b736486c-1ed9-48f3-8c44-097f1dfff1c5" />
+
 - [Vite Configuration Reference](https://vite.dev/config/)
