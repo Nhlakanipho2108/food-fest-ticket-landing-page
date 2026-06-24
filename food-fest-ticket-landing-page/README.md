@@ -129,3 +129,5 @@ src/
 ## 📄 License
 
 This project is private.
+<img width="1117" height="786" alt="ticket" src="https://github.com/user-attachments/assets/2ebae28c-a767-4d60-a5c7-8969bdf6e74b" />
+
